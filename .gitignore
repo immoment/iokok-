@@ -1,0 +1,6 @@
+# SageMath parsed files
+*.sage.py
+
+.venv
+env/
+venv/
